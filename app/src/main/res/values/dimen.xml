@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="range_full">16dp</dimen>
+    <dimen name="range_half">8dp</dimen>
+    <dimen name="range_an_eight">2dp</dimen>
+
+    <dimen name="corner_radius">10dp</dimen>
+
+</resources>
